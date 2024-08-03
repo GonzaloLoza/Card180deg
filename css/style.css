@@ -10,7 +10,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     background: linear-gradient(to bottom, #fae2be86, #374a5880);
- 
+    overflow:hidden;
 }
 .card{
     position: relative;
